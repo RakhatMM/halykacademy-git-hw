@@ -1,5 +1,5 @@
-#*.class
-#
-#.idea/
-#
-#*.iml
+*.class
+
+.idea/
+
+*.iml
